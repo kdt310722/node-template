@@ -19,7 +19,7 @@
     },
     "dependencies": {
         "@kdt310722/config": "^0.0.2",
-        "@kdt310722/logger": "^0.0.3",
+        "@kdt310722/logger": "^0.0.4",
         "@kdt310722/utils": "^0.0.5",
         "better-sqlite3": "^9.4.3",
         "colorette": "^2.0.20",

@@ -9,8 +9,8 @@ dependencies:
     specifier: ^0.0.2
     version: 0.0.2(zod@3.22.4)
   '@kdt310722/logger':
-    specifier: ^0.0.3
-    version: 0.0.3(@kdt310722/utils@0.0.5)
+    specifier: ^0.0.4
+    version: 0.0.4(@kdt310722/utils@0.0.5)
   '@kdt310722/utils':
     specifier: ^0.0.5
     version: 0.0.5
@@ -789,8 +789,8 @@ packages:
       - typescript
     dev: true
 
-  /@kdt310722/logger@0.0.3(@kdt310722/utils@0.0.5):
-    resolution: {integrity: sha512-/FfzZjzdhU3fJ2xGpgPcRRrvc891THXdIY4grQmpvT4m45zTJsUpEgDwcveE5Sz3tNhRGjNWrVzOCbv1UoIWLQ==}
+  /@kdt310722/logger@0.0.4(@kdt310722/utils@0.0.5):
+    resolution: {integrity: sha512-hSVjbutS7betTEB/wkdCnGOJDRFqPTHDN+k9S4dTY54KqHWKnyNV5J8KX4/H9DSl+7P8OHWh57JAHYINRqTWsA==}
     requiresBuild: true
     peerDependencies:
       '@kdt310722/utils': '>=0.0.5'
