@@ -9,7 +9,7 @@
     "scripts": {
         "build": "tsc --noEmit && tsup",
         "dev": "node bin/dev.js",
-        "start": "node bin/run.js",
+        "start": "NODE_ENV=production node bin/run.js",
         "test": "vitest run",
         "up": "ncu -i",
         "lint": "eslint .",
