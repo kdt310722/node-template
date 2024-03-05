@@ -10,10 +10,10 @@ dependencies:
     version: 0.0.2(zod@3.22.4)
   '@kdt310722/logger':
     specifier: ^0.0.5
-    version: 0.0.5(@kdt310722/utils@0.0.5)
+    version: 0.0.5(@kdt310722/utils@0.0.6)
   '@kdt310722/utils':
-    specifier: ^0.0.5
-    version: 0.0.5
+    specifier: ^0.0.6
+    version: 0.0.6
   better-sqlite3:
     specifier: ^9.4.3
     version: 9.4.3
@@ -786,13 +786,13 @@ packages:
       - typescript
     dev: true
 
-  /@kdt310722/logger@0.0.5(@kdt310722/utils@0.0.5):
+  /@kdt310722/logger@0.0.5(@kdt310722/utils@0.0.6):
     resolution: {integrity: sha512-hjbsi7GVtqe1cpGRbH7MUycMSJ3FqAxD3P+iU8AJYj1WtL8rW08+ahxVlCo3V+/vku5jC2ITukoRxhLzqwuhLQ==}
     requiresBuild: true
     peerDependencies:
       '@kdt310722/utils': '>=0.0.5'
     dependencies:
-      '@kdt310722/utils': 0.0.5
+      '@kdt310722/utils': 0.0.6
       bottleneck: 2.19.5
       bytes: 3.1.2
       clean-stack: 5.2.0
@@ -820,6 +820,15 @@ packages:
 
   /@kdt310722/utils@0.0.5:
     resolution: {integrity: sha512-Ubms9OcGaG/BbTrOdyiaDqvWc9Zli2Qbu7a0EAAaynLWjpmNwHm7XFW9f1YJz9tWf3SQqBnVmdPaMzvWYabW1g==}
+    requiresBuild: true
+    dependencies:
+      json5: 2.2.3
+      p-retry: 6.2.0
+      serialize-error: 11.0.3
+    dev: false
+
+  /@kdt310722/utils@0.0.6:
+    resolution: {integrity: sha512-t6Xcqms9NaNr9nSGLqRWJVbT4FoHZaqzTbGn4m2hvUzDnbUGLpoD2nJ8a32pBSzbmvRNRkXx3fK5KXLJiH6DSQ==}
     requiresBuild: true
     dependencies:
       json5: 2.2.3
