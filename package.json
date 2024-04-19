@@ -28,7 +28,7 @@
         "reflect-metadata": "^0.2.2",
         "typeorm": "^0.3.20",
         "typeorm-naming-strategies": "^4.1.0",
-        "zod": "^3.22.4",
+        "zod": "^3.22.5",
         "zod-validation-error": "^3.1.0"
     },
     "devDependencies": {
@@ -36,7 +36,7 @@
         "@commitlint/config-conventional": "^19.2.2",
         "@kdt310722/eslint-config": "^0.0.5",
         "@kdt310722/tsconfig": "^1.0.0",
-        "@swc/core": "^1.4.14",
+        "@swc/core": "^1.4.16",
         "@types/node": "^20.12.7",
         "@types/pluralize": "^0.0.33",
         "@vitest/coverage-v8": "^1.5.0",
