@@ -1,7 +1,7 @@
 {
     "type": "module",
     "private": true,
-    "packageManager": "pnpm@8.15.7",
+    "packageManager": "pnpm@8.15.8",
     "author": "Diep Dang <kdt310722@gmail.com>",
     "license": "UNLICENSED",
     "engines": {
@@ -28,7 +28,7 @@
         "reflect-metadata": "^0.2.2",
         "typeorm": "^0.3.20",
         "typeorm-naming-strategies": "^4.1.0",
-        "zod": "^3.23.4",
+        "zod": "^3.23.5",
         "zod-validation-error": "^3.2.0"
     },
     "devDependencies": {
@@ -39,7 +39,7 @@
         "@swc/core": "^1.5.2",
         "@types/node": "^20.12.7",
         "@types/pluralize": "^0.0.33",
-        "@vitest/coverage-v8": "^1.5.2",
+        "@vitest/coverage-v8": "^1.5.3",
         "eslint": "^9.1.1",
         "extensionless": "^1.9.6",
         "lint-staged": "^15.2.2",
@@ -49,7 +49,7 @@
         "ts-node": "^10.9.2",
         "tsup": "^8.0.2",
         "typescript": "^5.4.5",
-        "vitest": "^1.5.2"
+        "vitest": "^1.5.3"
     },
     "commitlint": {
         "extends": "@commitlint/config-conventional"
