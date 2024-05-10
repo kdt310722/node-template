@@ -5,7 +5,7 @@
     "author": "Diep Dang <kdt310722@gmail.com>",
     "license": "UNLICENSED",
     "engines": {
-        "node": ">=20.13.0"
+        "node": ">=20.13.1"
     },
     "scripts": {
         "build": "tsc --noEmit && tsup",
@@ -28,7 +28,7 @@
         "reflect-metadata": "^0.2.2",
         "typeorm": "^0.3.20",
         "typeorm-naming-strategies": "^4.1.0",
-        "zod": "^3.23.7",
+        "zod": "^3.23.8",
         "zod-validation-error": "^3.2.0"
     },
     "devDependencies": {
@@ -36,12 +36,12 @@
         "@commitlint/config-conventional": "^19.2.2",
         "@kdt310722/eslint-config": "^0.0.5",
         "@kdt310722/tsconfig": "^1.0.0",
-        "@swc/core": "^1.5.2",
-        "@types/node": "^20.12.10",
+        "@swc/core": "^1.5.5",
+        "@types/node": "^20.12.11",
         "@types/pluralize": "^0.0.33",
         "@vitest/coverage-v8": "^1.6.0",
         "eslint": "^9.2.0",
-        "extensionless": "^1.9.6",
+        "extensionless": "^1.9.7",
         "lint-staged": "^15.2.2",
         "npm-check-updates": "^16.14.20",
         "only-allow": "^1.2.1",
