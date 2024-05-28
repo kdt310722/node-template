@@ -41,7 +41,7 @@
         "@types/pluralize": "^0.0.33",
         "@vitest/coverage-v8": "^1.6.0",
         "eslint": "^9.3.0",
-        "extensionless": "^1.9.8",
+        "extensionless": "^1.9.9",
         "lint-staged": "^15.2.5",
         "npm-check-updates": "^16.14.20",
         "only-allow": "^1.2.1",

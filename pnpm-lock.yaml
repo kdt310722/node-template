@@ -68,8 +68,8 @@ devDependencies:
     specifier: ^9.3.0
     version: 9.3.0
   extensionless:
-    specifier: ^1.9.8
-    version: 1.9.8
+    specifier: ^1.9.9
+    version: 1.9.9
   lint-staged:
     specifier: ^15.2.5
     version: 15.2.5
@@ -3983,8 +3983,8 @@ packages:
     resolution: {integrity: sha512-dX7e/LHVJ6W3DE1MHWi9S1EYzDESENfLrYohG2G++ovZrYOkm4Knwa0mc1cn84xJOR4KEU0WSchhLbd0UklbHw==}
     dev: true
 
-  /extensionless@1.9.8:
-    resolution: {integrity: sha512-y1UshuioD6D1yRoPR9xkVPbbKfmiYNcxMAbt85/VQydH6SjsVcvCV6HJqyOiedIDZXgBfZpTaRZPAREo6+2EyQ==}
+  /extensionless@1.9.9:
+    resolution: {integrity: sha512-fz0cWfLA4pgc2nwmg6lc2UH+g+NlFuD63VWqp8n1wGAZSSbPNoARkA54BxXRjYCYW9LvhBnA3NyJaGS2KudkWw==}
     dev: true
 
   /fast-deep-equal@3.1.3:
@@ -7263,7 +7263,7 @@ packages:
       is-glob: 4.0.3
       jiti: 1.21.0
       lilconfig: 2.1.0
-      micromatch: 4.0.6
+      micromatch: 4.0.7
       normalize-path: 3.0.0
       object-hash: 3.0.0
       picocolors: 1.0.0
