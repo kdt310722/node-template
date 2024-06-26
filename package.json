@@ -37,7 +37,7 @@
         "@kdt310722/eslint-config": "^0.0.5",
         "@kdt310722/tsconfig": "^1.0.0",
         "@swc/core": "^1.6.5",
-        "@types/node": "^20.14.8",
+        "@types/node": "^20.14.9",
         "@types/pluralize": "^0.0.33",
         "@vitest/coverage-v8": "^1.6.0",
         "eslint": "^9.5.0",
