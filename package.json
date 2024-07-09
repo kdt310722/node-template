@@ -5,7 +5,7 @@
     "author": "Diep Dang <kdt310722@gmail.com>",
     "license": "UNLICENSED",
     "engines": {
-        "node": ">=20.15.0"
+        "node": ">=20.15.1"
     },
     "scripts": {
         "build": "tsc --noEmit && tsup",
