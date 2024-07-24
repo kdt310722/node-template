@@ -37,9 +37,9 @@
         "@kdt310722/eslint-config": "^0.0.5",
         "@kdt310722/tsconfig": "^1.0.0",
         "@swc/core": "^1.7.0",
-        "@types/node": "^20.14.11",
+        "@types/node": "^20.14.12",
         "@types/pluralize": "^0.0.33",
-        "@vitest/coverage-v8": "^2.0.3",
+        "@vitest/coverage-v8": "^2.0.4",
         "eslint": "^9.7.0",
         "extensionless": "^1.9.9",
         "lint-staged": "^15.2.7",
@@ -47,9 +47,9 @@
         "only-allow": "^1.2.1",
         "simple-git-hooks": "^2.11.1",
         "ts-node": "^10.9.2",
-        "tsup": "^8.2.1",
-        "typescript": "^5.5.3",
-        "vitest": "^2.0.3"
+        "tsup": "^8.2.2",
+        "typescript": "^5.5.4",
+        "vitest": "^2.0.4"
     },
     "commitlint": {
         "extends": "@commitlint/config-conventional"
