@@ -43,11 +43,11 @@
         "eslint": "^9.10.0",
         "extensionless": "^1.9.9",
         "lint-staged": "^15.2.10",
-        "npm-check-updates": "^17.1.1",
+        "npm-check-updates": "^17.1.2",
         "only-allow": "^1.2.1",
         "simple-git-hooks": "^2.11.1",
         "ts-node": "^10.9.2",
-        "tsup": "^8.2.4",
+        "tsup": "^8.3.0",
         "typescript": "^5.6.2",
         "vitest": "^2.1.1"
     },
